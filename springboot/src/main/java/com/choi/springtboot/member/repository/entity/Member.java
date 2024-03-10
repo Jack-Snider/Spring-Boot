@@ -1,4 +1,4 @@
-package com.choi.springtboot.user.repository.entity;
+package com.choi.springtboot.member.repository.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
